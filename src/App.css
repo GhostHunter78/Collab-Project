@@ -2,8 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url("https://free.bboxtype.com/embedfonts/?family=FiraGO:400,500,700");
-
 #root {
   height: 100%;
 }
